@@ -1,0 +1,15 @@
+baseurl = "http://abirger.github.io/biological-data-services-pdf"
+CanonifyUrls = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+languageCode = "en-us"
+[params]
+  Title = "Biological Data Services Docs"
+  Tagline = "Procedures, codes, scripts, templates"
+[params.Github]
+  Head = "master"
+  Url = "https://github.com/ioos/biological-data-services"
+	
+	
+ 
