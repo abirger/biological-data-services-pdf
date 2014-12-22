@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> </title>
+    <link>http://abirger.github.io/biological-data-services-pdf/index.xml/</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2014</rights>
+    <updated>2014-08-04 07:56:39 &#43;0000 UTC</updated>
+
+    
+      
+        <item>
+          <title>ABOUT: Biological Data Enrollment</title>
+          <link>http://abirger.github.io/biological-data-services-pdf/index.html</link>
+          <pubDate>Mon, 04 Aug 2014 07:56:39 UTC</pubDate>
+          <author></author>
+          <guid>http://abirger.github.io/biological-data-services-pdf/index.html</guid>
+          <description>&lt;!-- For a single homepage put in FrontMatter url = &#34;index.html&#34; --&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;“This IOOS Biological data solutions and linking to users applications will allow people to do research that simply could not be done before due to access and format challenges. It will save weeks to months of time acquiring, reformatting, understanding the collection techniques and conducting the analyses”&lt;/em&gt;&lt;/strong&gt;
+&lt;p align=&#34;right&#34;&gt;Mitch Roffer (ROFFS TM Inc.)&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;“The obtainable consistency of the biological data due to standards, as well as the richness and standard approach to detailed circumstances of observation, are what enable IOOS Biological Data for applications”&lt;/strong&gt;&lt;/em&gt;
+&lt;p align=&#34;right&#34;&gt;Philip Goldstein (OBIS-USA)&lt;/p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This document describes the data enrollment procedures proposed by IOOS Data Management and Communication (DMAC) to support sharing and integration of aquatic biological data (i.e. IOOS core variables: fish species, fish abundance, zooplankton species, zooplankton abundance, phytoplankton species). However these data services are applicable to any aquatic taxa that have presence, absence and abundance information.
+The document has the following major sections:
+IOOS Basic Principle
+Describes the IOOS data principle for sharing ocean observing data.
+IOOS Biological Data Flow
+Describes the biological data flow from IOOS Data providers through IOOS Regional Association to US IOOS DMAC system.
+Enrollment Procedures
+Defines the types of enrollment procedures and the steps of enrolling a data provider.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title></title>
+          <link>http://abirger.github.io/biological-data-services-pdf/biological-data-procedure/</link>
+          <pubDate>Mon, 04 Aug 2014 07:56:39 UTC</pubDate>
+          <author></author>
+          <guid>http://abirger.github.io/biological-data-services-pdf/biological-data-procedure/</guid>
+          <description>&lt;p&gt;&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_01.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_02.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_03.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_04.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_05.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_06.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_07.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_08.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_09.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_10.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_11.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_12.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_13.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_14.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_15.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_16.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_17.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_18.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_19.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_20.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_21.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_22.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_23.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_24.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_25.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_26.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_27.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_28.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_29.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_30.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_31.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_32.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_33.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_34.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_35.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_36.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_37.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_38.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_39.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_40.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_41.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_42.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_43.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_44.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_45.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_46.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_47.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_48.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_49.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+
+&lt;img src=&#34;/images/IOOS BDS_ENROLLEMENT PROCESS_Draft_vs1.0_Page_50.png&#34; alt=&#34;Here be PDF file&#34; /&gt;
+&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
